@@ -9,7 +9,7 @@ if len(argv) == 2:
     max_category_index = int( argv[1] )
 elif len(argv) == 3:
     min_category_index = int( argv[1] )
-    max_categoryo_index = int( argv[2] )
+    max_category_index = int( argv[2] )
 
 category1 = [
     "Category 1 Name",
